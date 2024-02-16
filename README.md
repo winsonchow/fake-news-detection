@@ -48,6 +48,6 @@ The system is evaluated using metrics such as accuracy, precision, recall, and F
 Instructions on setting up the project environment, including required libraries and dependencies.
 
 ```bash
-git clone https://github.com/your-github/fake-news-detection
+git clone https://github.com/winsonchow/fake-news-detection
 cd fake-news-detection
 pip install -r requirements.txt
